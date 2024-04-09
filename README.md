@@ -5,5 +5,5 @@
 para rodar lkamd'lae'da,wcrr
 
 ```
-npm install
+node app.js 
 ```
